@@ -1,0 +1,228 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1709038082076349, "dur":18312, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709038082094670, "dur":67, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709038082094763, "dur":304, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709038082095275, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1709038082095664, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1709038082096646, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709038082095086, "dur":2993, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709038082098080, "dur":149578, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709038082247659, "dur":269, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709038082247929, "dur":52, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709038082248165, "dur":1205, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1709038082095648, "dur":2456, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709038082098106, "dur":321, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709038082098427, "dur":1233, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709038082110143, "dur":920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1709038082111100, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082112982, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082114148, "dur":932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082115188, "dur":763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082115973, "dur":374, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Editing and Drawing\\Unity Projects\\Tugas Pinball\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082115971, "dur":377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082116362, "dur":836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082117227, "dur":1270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082118531, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082119437, "dur":1582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082121052, "dur":1166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082122255, "dur":1005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082123291, "dur":1586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082124907, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082126654, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082127802, "dur":1294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082129125, "dur":1061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082130220, "dur":1008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709038082131258, "dur":2834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1709038082134168, "dur":1443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/level2" }}
+,{ "pid":12345, "tid":1, "ts":1709038082135644, "dur":1490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1709038082137148, "dur":110498, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709038082095665, "dur":2450, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709038082098117, "dur":311, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709038082098428, "dur":1228, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709038082100452, "dur":1664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1709038082102303, "dur":779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1709038082103295, "dur":728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1709038082104196, "dur":625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1709038082104857, "dur":1011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball.exe" }}
+,{ "pid":12345, "tid":2, "ts":1709038082106186, "dur":3898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082110117, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082111073, "dur":1588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082112697, "dur":816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082113553, "dur":1635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082115205, "dur":361, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Editing and Drawing\\Unity Projects\\Tugas Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082115204, "dur":363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082115582, "dur":842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082116438, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Editing and Drawing\\Unity Projects\\Tugas Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082116437, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082116588, "dur":1077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082117693, "dur":874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082118603, "dur":726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082119362, "dur":1442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082120842, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082121835, "dur":1367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082123235, "dur":1388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082124652, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082126472, "dur":905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082127410, "dur":1056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082128494, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082129877, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709038082130908, "dur":1544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1709038082132515, "dur":1157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1709038082133704, "dur":1151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1709038082134881, "dur":1025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1709038082135935, "dur":4343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1709038082140305, "dur":107340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709038082095690, "dur":2430, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709038082098122, "dur":305, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709038082098427, "dur":1284, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709038082099720, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Tools\\Unity\\Unity Editor\\2022.3.18f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1709038082099711, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1709038082152802, "dur":653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1709038082153471, "dur":94186, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709038082095549, "dur":2536, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709038082098087, "dur":1559, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709038082152596, "dur":384, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":4, "ts":1709038082152986, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1709038082153359, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player474af87f-inputdata.json" }}
+,{ "pid":12345, "tid":4, "ts":1709038082152984, "dur":547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1709038082154037, "dur":91622, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1709038082246759, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1709038082246758, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1709038082246859, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1709038082095809, "dur":2330, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709038082098139, "dur":1534, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709038082099675, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1709038082152518, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1709038082153389, "dur":94276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709038082095583, "dur":2506, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709038082098092, "dur":322, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709038082098415, "dur":1255, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709038082143819, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1709038082144867, "dur":102787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709038082095613, "dur":2481, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709038082098096, "dur":314, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709038082098410, "dur":1253, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709038082110128, "dur":856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1709038082111019, "dur":1533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082112587, "dur":910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082113525, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082114348, "dur":918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082115281, "dur":503, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Editing and Drawing\\Unity Projects\\Tugas Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082115279, "dur":506, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082115799, "dur":990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082116823, "dur":1041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082117895, "dur":869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082118797, "dur":988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082119819, "dur":1246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082121103, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082123319, "dur":1593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082124942, "dur":1677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082126648, "dur":1084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082127766, "dur":1442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082129229, "dur":1167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082130424, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Tools\\Unity\\Unity Editor\\2022.3.18f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082130422, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082130494, "dur":20556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709038082151068, "dur":96593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709038082095633, "dur":2466, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709038082098101, "dur":293, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709038082098395, "dur":1256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709038082143047, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1709038082144069, "dur":103572, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709038082095658, "dur":2452, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709038082098112, "dur":294, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709038082098406, "dur":1249, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709038082100379, "dur":1697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":9, "ts":1709038082102288, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1709038082103303, "dur":675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1709038082104009, "dur":695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1709038082104756, "dur":5265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082110081, "dur":2043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082112161, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082113131, "dur":2060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082115209, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Editing and Drawing\\Unity Projects\\Tugas Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082115208, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082115343, "dur":755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082116114, "dur":157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Editing and Drawing\\Unity Projects\\Tugas Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082116113, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082116284, "dur":721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082117037, "dur":1258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082118371, "dur":808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082119219, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082120067, "dur":1448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082121555, "dur":884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082122468, "dur":1403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082123898, "dur":987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082124918, "dur":1633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082126583, "dur":1101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082127717, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082129188, "dur":912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082130127, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709038082131084, "dur":1926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":9, "ts":1709038082133070, "dur":1657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1709038082134794, "dur":3496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1709038082138320, "dur":109328, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709038082095743, "dur":2393, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709038082098137, "dur":1530, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709038082121169, "dur":778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1709038082121983, "dur":1132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709038082123146, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709038082124560, "dur":1863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709038082126462, "dur":954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709038082127461, "dur":1033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709038082128521, "dur":1341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709038082129889, "dur":947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709038082130878, "dur":7555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":10, "ts":1709038082138452, "dur":109203, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709038082095718, "dur":2408, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709038082098128, "dur":228, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709038082098357, "dur":1296, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709038082100541, "dur":1563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1709038082102268, "dur":793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1709038082103273, "dur":543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1709038082103872, "dur":626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1709038082104733, "dur":1131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082106285, "dur":1894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1709038082108268, "dur":2358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082110661, "dur":1323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082112029, "dur":903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082112959, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082113884, "dur":1023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082114965, "dur":717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082115698, "dur":335, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Editing and Drawing\\Unity Projects\\Tugas Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082115697, "dur":339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082116050, "dur":831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082116914, "dur":1342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082118292, "dur":911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082119237, "dur":815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082120073, "dur":1458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082121567, "dur":989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082122595, "dur":1452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082124101, "dur":1022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082125171, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082127051, "dur":1009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082128098, "dur":2223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082130355, "dur":958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709038082131338, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1709038082133649, "dur":3212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1709038082136901, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709038082136976, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1709038082138513, "dur":109126, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709038082095740, "dur":2391, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709038082098131, "dur":1521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709038082120873, "dur":1499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1709038082122397, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709038082124104, "dur":1180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709038082125316, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709038082126896, "dur":1147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709038082128095, "dur":1502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709038082129632, "dur":876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709038082130532, "dur":1555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":12, "ts":1709038082132119, "dur":153, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1709038082132116, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Game/Tugas Pinball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1709038082132296, "dur":789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1709038082133151, "dur":2865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1709038082136045, "dur":2893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Game/Tugas Pinball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1709038082138959, "dur":108684, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709038082251094, "dur":793, "ph":"X", "name": "ProfilerWriteOutput" }
+,
